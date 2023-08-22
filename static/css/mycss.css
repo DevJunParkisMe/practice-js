@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.divide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.divide img {
+    width:20%;
+    margin: 30px;
+}
+div.divide p {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    margin-left:30px;
+}
+
+img {
+    border-radius:50%;
+}
