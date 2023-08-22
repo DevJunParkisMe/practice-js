@@ -8,16 +8,9 @@
 - VSCode
     - Live Server
 
-## TODO
-
-- [x] 헤더
-- [x] 섹션
-- [x] 아티클
-    - [x] 디테일1
-    - [x] 디테일2
-    - [x] 디테일3
-    - [x] 디테일4
 ## Ref.
 - .gitignore
 
 - 프로젝트 예시(https://pnumin.github.io/k4_testpico/#divReact)
+
+- 내 프로젝트 배포 주소(https://devjunparkisme.github.io/practice-js/)
