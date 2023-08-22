@@ -4,8 +4,8 @@
 
 ##  개발 환경
 
-> Chrome
-> VSCode
+- Chrome
+- VSCode
     - Live Server
 
 ## TODO
