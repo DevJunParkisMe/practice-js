@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <script src="../static/js/03.js"></script>
+    <script src="../static/js/03_1.js"></script>
     <title>자바스크립트 DOM CRUD</title>
 </head>
 <body>
@@ -19,10 +20,10 @@
             </div>
             <footer>
                 <div class="grid">
-                    <button id="btn1">Element 생성</button>
-                    <button id="btn2">Element 읽기</button>
-                    <button id="btn3">Element 수정</button>
-                    <button id="btn4">Element 삭제</button>
+                    <button id="btn1" onclick=domCreate()>Element 생성</button>
+                    <button id="btn2" onclick=domRead()>Element 읽기</button>
+                    <button id="btn3" onclick=domUpdate()>Element 수정</button>
+                    <button id="btn4" onclick=domDelete()>Element 삭제</button>
                 </div>
             </footer>
         </article>
