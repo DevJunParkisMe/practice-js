@@ -2,3 +2,10 @@ div.imgBox {
     display: flex;
     justify-content: center;
 }
+
+
+fieldset {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
