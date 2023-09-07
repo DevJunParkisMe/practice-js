@@ -1,0 +1,23 @@
+.numtd {
+    text-align: right;
+}
+th {
+    text-align: left;
+}
+.inten {
+    font-size: 12px;
+}
+.th1 {
+    width: 5em;
+}
+.th3 {
+    width: 7em;
+}
+.rank {
+    display:flex;
+    justify-content: space-between;
+}
+.detail span {
+    font-weight: regular;
+    font-size: 20px;
+}
